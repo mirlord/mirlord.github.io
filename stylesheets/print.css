@@ -1,0 +1,65 @@
+
+body {
+  font-family: Times, serif;
+  font-size: 14px; }
+
+
+h1, h2, h3 {
+  font-family: Arial, Verdana, sans-serif;
+  border-bottom-style: none;
+  page-break-after: avoid;
+  page-break-inside: avoid; }
+
+
+h1 {
+  font-size: 24px;
+  text-align: center; }
+
+
+h2 {
+  font-size: 20px; }
+
+
+h3 {
+  font-size: 16px; }
+
+
+a, a:visited {
+  text-decoration: none;
+  color: inherit; }
+
+
+ul {
+  page-break-before: avoid; }
+
+
+p, li {
+  page-break-inside: avoid; }
+
+
+footer, #sidebar nav ul, .no-print {
+  display: none; }
+
+
+#main {
+  margin: 0;
+  width: 100%; }
+
+
+section .section-content {
+  display: block; }
+
+
+.only-print {
+  display: block; }
+
+
+header .subtitle {
+  text-align: right;
+  line-height: 1em;
+  padding: 0;
+  margin: 0 0 5px 0; }
+
+
+span.work-period {
+  display: block; }
