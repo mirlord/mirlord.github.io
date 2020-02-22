@@ -1,0 +1,3 @@
+[submodule "stylesheets/Skeleton"]
+	path = stylesheets/Skeleton
+	url = https://github.com/dhg/Skeleton.git
